@@ -7,3 +7,5 @@ Features:
 - Search Related Hashtag by keyword
 - Artificial intelligence to auto-hashtag your quote or text!
 - Use your voice with Siri to get Trending hashtags.
+
+Copyrights Faraz_Ahmed©
